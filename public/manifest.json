@@ -1,0 +1,23 @@
+{
+  "name": "Mobile-ETABS — IS 456 Structural Modeler",
+  "short_name": "Mobile-ETABS",
+  "description": "Mobile-first 3D/2D structural modeling, analysis, and RCC design engine compliant with IS 456:2000.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
